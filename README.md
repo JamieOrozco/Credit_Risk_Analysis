@@ -35,7 +35,7 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 <img width="362" alt="image" src="https://user-images.githubusercontent.com/95591222/163688425-eca2af3b-ea6b-400a-b727-bcf7e883d4da.png">
 
 
-## Deliverable 4: Conclusion
+## Conclusion:
 
 * Among the resampling models, the combination (SMOTEENN) model has the highest balanced accuracy score (67%) which is only a few points higher than the other models. For these resampling models the high risk and low risk predictions were 1% and 100% respectively.
 
